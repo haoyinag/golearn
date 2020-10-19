@@ -54,4 +54,7 @@ func main() {
 		i1        // 8
 	)
 	fmt.Println(a1, b1, c1, d1, e1, f1, g1, h1, i1)
+
+	helloworld := "hello world"
+	fmt.Println(helloworld)
 }
